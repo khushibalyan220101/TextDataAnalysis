@@ -1,7 +1,4 @@
 # Sentiment Analysis
-Dataset: Youtube videos dataset 
-
-
 ## Objectives :
 
       * Perform Sentiment Analysis on Youtube comments positive and negative sentiments using wordcloud.
