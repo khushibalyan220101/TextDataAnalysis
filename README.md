@@ -2,8 +2,6 @@
 Dataset: Youtube videos dataset 
 Objectives :
 ~~~
- Markup : 1. Perform Sentiment Analysis on Youtube comments positive and negative sentiments using wordcloud.
-          2. Analyze trending tags on Youtube using dataset.
 ~~~
       * Perform Sentiment Analysis on Youtube comments positive and negative sentiments using wordcloud.
       * Analyze trending tags on Youtube using dataset.
